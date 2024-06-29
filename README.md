@@ -1,4 +1,4 @@
-# WhatsApp Message Spammer
+# Spam Bot
 
 This script automates sending a specified message a given number of times on WhatsApp Web using the `pyautogui` library.
 
